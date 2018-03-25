@@ -80,7 +80,7 @@ public class ListToDo extends AppCompatActivity {
                 }
             }
         };
-        //menentukan itemtouchhelper untuk recycler view 
+        //menentukan itemtouchhelper untuk recycler view
         ItemTouchHelper touchhelp = new ItemTouchHelper(touchcall);
         touchhelp.attachToRecyclerView(rv);
     }
