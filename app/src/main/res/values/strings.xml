@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">ZulkarnainS_1202141255_Studycase5</string>
+    <string name="title_activity_list_to_do">ListToDo</string>
+    <string name="action_settings">Setting</string>
+    action_settings
 </resources>
